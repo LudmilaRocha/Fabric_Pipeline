@@ -33,8 +33,8 @@ CSV/Excel  →  [Bronze]  →  [Silver]  →  [Gold]  →  Power BI
 
 - [x] Bronze — ingestão do dataset
 - [x] Silver — limpeza, tipos, deduplicação (8.500 registros validados)
-- [ ] Gold — agregações por Brasil
-- [ ] Visualização no Power BI
+- [x] Gold — agregações por Brasil
+- [ ] Visualização Python
 
 ## Dataset
 
